@@ -1,3 +1,7 @@
+# Aspose.Finance for .NET
+
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net) Aspose.Finance, as a pure .NET library provides much better performance and ease of use to manipulate finance-related formats, such as XBRL, iXBRL. The finance API is extensible, easy to use and compact and provides all common functionality so developers write less code to do common operations.
+
 This repository contains [Examples](Examples), for [Aspose.Finance for .NET](https://products.aspose.com/finance/net) to help you learn and write your applications.
 
 <p align="center">
@@ -11,9 +15,9 @@ Directory | Description
 [CSharp](CSharp)  | A collection of .NET examples that help you learn the product features
 [Data](Data)  | Data files used in the examples
 
-# Aspose.Finance for .NET
+# .NET API to Manipulate Finance-related Formats
 
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net) Aspose.Finance, as a pure .NET library provides much better performance and ease of use to manipulate finance-related formats, such as XBRL, iXBRL. The finance API is extensible, easy to use and compact and provides all common functionality so developers write less code to do common operations.
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net) is a standalone on-premise API consisting of C# classes that allow you to process and manipuate finance-related formats, such as, XBRL and iXBRL from within your .NET applications.
 
 <h2 id="finance-processing-features">Finance Processing Features</h2>
 <ul>
