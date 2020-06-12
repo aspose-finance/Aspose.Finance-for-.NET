@@ -4,35 +4,29 @@
 
 This repository contains [Examples](Examples), for [Aspose.Finance for .NET](https://products.aspose.com/finance/net) to help you learn and write your applications.
 
-<p align="center">
-<a title="Download complete Aspose.Finance for .NET source code" href="https://github.com/aspose-finance/Aspose.Finance-for-.NET/archive/master.zip">
-	<img src="https://raw.github.com/AsposeExamples/java-examples-dashboard/master/images/downloadZip-Button-Large.png" />
-  </a>
-</p>
-
-Directory | Description
---------- | -----------
-[CSharp](CSharp)  | A collection of .NET examples that help you learn the product features
-[Data](Data)  | Data files used in the examples
-
 # .NET API to Manipulate Finance-related Formats
 
 [Aspose.Finance for .NET](https://products.aspose.com/finance/net) is a standalone on-premise API consisting of C# classes that allow you to process and manipuate finance-related formats, such as, XBRL and iXBRL from within your .NET applications.
 
-<h2 id="finance-processing-features">Finance Processing Features</h2>
-<ul>
-<li><a href="https://docs.aspose.com/display/financenet/Create+XBRL+files#CreateXBRLfiles-CreateXBRLInstance">Create XBRL instance</a> from scratch.</li>
-<li>Read XBRL &amp; iXBRL format.</li>
-<li>Supports XBRL &amp; iXBRL validation.</li>
-<li>Import and export XBRL &amp; iXBRL format files.</li>
-<li>Handle the abstract element in XBRL taxonomy.</li>
-</ul>
-<h2 id="read-finance-formats">Read Finance Formats</h2>
-<p>XBRL, iXBRL</p>
-<h2 id="platform-independence">Platform Independence</h2>
-<p>Aspose.Finance for .NET is implemented using Managed C# and can be used with any .NET language like C#, VB.NET, F# and so on. It can be integrated with any kind of .NET application, from ASP.NET web applications to Windows .NET applications.</p>
-<h2 id="getting-started-with-aspose-finance-for-net">Getting Started with Aspose.Finance for .NET</h2>
-<p>Are you ready to give Aspose.Finance for .NET a try? Simply execute <code>Install-Package Aspose.Finance</code> from Package Manager Console in Visual Studio to fetch the NuGet package. If you already have Aspose.Finance for .NET and want to upgrade the version, please execute <code>Update-Package Aspose.Finance</code> to get the latest version.</p>
+## Finance Processing Features
+
+- [Create XBRL instance](https://docs.aspose.com/display/financenet/Create+XBRL+files#CreateXBRLfiles-CreateXBRLInstance) from scratch.
+- Read XBRL & iXBRL format.
+- Supports XBRL & iXBRL validation.
+- Import and export XBRL & iXBRL format files.
+- Handle the abstract element in XBRL taxonomy.
+
+## Read Finance Formats
+
+XBRL, iXBRL
+
+## Platform Independence
+
+Aspose.Finance for .NET is implemented using Managed C# and can be used with any .NET language like C#, VB.NET, F# and so on. It can be integrated with any kind of .NET application, from ASP.NET web applications to Windows .NET applications.
+
+## Getting Started with Aspose.Finance for .NET
+
+Are you ready to give Aspose.Finance for .NET a try? Simply execute `Install-Package Aspose.Finance` from Package Manager Console in Visual Studio to fetch the NuGet package. If you already have Aspose.Finance for .NET and want to upgrade the version, please execute `Update-Package Aspose.Finance` to get the latest version.
 
 ## How to Run the Examples
 
