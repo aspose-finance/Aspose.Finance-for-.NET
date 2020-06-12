@@ -1,7 +1,3 @@
-# Aspose.Finance for .NET
-
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net) Aspose.Finance, as a pure .NET library provides much better performance and ease of use to manipulate finance-related formats, such as XBRL, iXBRL. The finance API is extensible, easy to use and compact and provides all common functionality so developers write less code to do common operations.
-
 This repository contains [Examples](Examples), for [Aspose.Finance for .NET](https://products.aspose.com/finance/net) to help you learn and write your applications.
 
 <p align="center">
@@ -14,6 +10,10 @@ Directory | Description
 --------- | -----------
 [CSharp](CSharp)  | A collection of .NET examples that help you learn the product features
 [Data](Data)  | Data files used in the examples
+
+# Aspose.Finance for .NET
+
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net) Aspose.Finance, as a pure .NET library provides much better performance and ease of use to manipulate finance-related formats, such as XBRL, iXBRL. The finance API is extensible, easy to use and compact and provides all common functionality so developers write less code to do common operations.
 
 <h2 id="finance-processing-features">Finance Processing Features</h2>
 <ul>
@@ -29,8 +29,6 @@ Directory | Description
 <p>Aspose.Finance for .NET is implemented using Managed C# and can be used with any .NET language like C#, VB.NET, F# and so on. It can be integrated with any kind of .NET application, from ASP.NET web applications to Windows .NET applications.</p>
 <h2 id="getting-started-with-aspose-finance-for-net">Getting Started with Aspose.Finance for .NET</h2>
 <p>Are you ready to give Aspose.Finance for .NET a try? Simply execute <code>Install-Package Aspose.Finance</code> from Package Manager Console in Visual Studio to fetch the NuGet package. If you already have Aspose.Finance for .NET and want to upgrade the version, please execute <code>Update-Package Aspose.Finance</code> to get the latest version.</p>
-
-
 
 ## How to Run the Examples
 
