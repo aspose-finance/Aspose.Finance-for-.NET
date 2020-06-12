@@ -39,18 +39,6 @@ Aspose.Finance for .NET is implemented using Managed C# and can be used with any
 
 Are you ready to give Aspose.Finance for .NET a try? Simply execute `Install-Package Aspose.Finance` from Package Manager Console in Visual Studio to fetch the NuGet package. If you already have Aspose.Finance for .NET and want to upgrade the version, please execute `Update-Package Aspose.Finance` to get the latest version.
 
-## How to Run the Examples
-
-* You can either clone the repository using your favorite GitHub client or download the ZIP file from here.
-* Extract the contents of the ZIP file to any folder on your computer. All the examples are located in the Examples folder.
-* Open the solution file in Visual Studio and build the project.
-* On the first run, the dependencies will automatically be downloaded via NuGet.
-* Data folder at the root folder of Examples contains input files. It is mandatory that you download the Data folder along with the examples project.
-* Open **RunExamples.cs**, all the examples are called from here.
-* Uncomment the examples you want to run from within the project.
-
-Please find more details on how to run the examples [here](https://docs.aspose.com/display/financenet/How+to+Run+the+Examples).
-
 ## Add Role Reference using C# Code
 
 You can execute the following code snippet to see how Aspose.Finance API works in your environment or check the [GitHub Repository](https://github.com/aspose-finance/Aspose.finance-for-.NET) for other common usage scenarios.
