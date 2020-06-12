@@ -4,6 +4,17 @@
 
 This repository contains [Examples](Examples), for [Aspose.Finance for .NET](https://products.aspose.com/finance/net) to help you learn and write your applications.
 
+<p align="center">
+<a title="Download complete Aspose.Finance for .NET source code" href="https://github.com/aspose-finance/Aspose.Finance-for-.NET/archive/master.zip">
+	<img src="https://raw.github.com/AsposeExamples/java-examples-dashboard/master/images/downloadZip-Button-Large.png" />
+  </a>
+</p>
+
+Directory | Description
+--------- | -----------
+[CSharp](CSharp)  | A collection of .NET examples that help you learn the product features
+[Data](Data)  | Data files used in the examples
+
 # .NET API to Manipulate Finance-related Formats
 
 [Aspose.Finance for .NET](https://products.aspose.com/finance/net) is a standalone on-premise API consisting of C# classes that allow you to process and manipuate finance-related formats, such as, XBRL and iXBRL from within your .NET applications.
