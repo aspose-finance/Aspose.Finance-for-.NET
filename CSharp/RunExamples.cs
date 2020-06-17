@@ -2,6 +2,7 @@
 using CSharp.CreateXbrlFiles;
 using CSharp.ReadXbrlFiles;
 using CSharp.ValidateXbrlFiles;
+using CSharp.WorkingWithOfxFiles;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -35,6 +36,11 @@ namespace CSharp
             //ValidateIxbrlInstance.Run();
             //ValidateXBRLWithStardardErrorMessage.Run();
             //ValidateXBRLWithCustomizedErrorMessage.Run();
+
+            //ConvertOfxRequestFileToOfxRequestV2.Run();
+            //ConvertOfxResponseFileToOfxResponseV2.Run();
+            //CreateOfxBankTransactionRequestFile.Run();
+            //CreateOfxBankTransactionResponseFile.Run();
 
             // Stop before exiting
             Console.WriteLine("\n\nProgram Finished. Press any key to exit....");
