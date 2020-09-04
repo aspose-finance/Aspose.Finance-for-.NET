@@ -1,4 +1,5 @@
 ﻿using Aspose.Finance;
+using CSharp.Conversion;
 using CSharp.CreateXbrlFiles;
 using CSharp.ReadXbrlFiles;
 using CSharp.ValidateXbrlFiles;
@@ -41,6 +42,9 @@ namespace CSharp
             //ConvertOfxResponseFileToOfxResponseV2.Run();
             //CreateOfxBankTransactionRequestFile.Run();
             //CreateOfxBankTransactionResponseFile.Run();
+
+            //ConvertXbrlToXlsx.Run();
+            //ConvertXbrlToIXbrl.Run();
 
             // Stop before exiting
             Console.WriteLine("\n\nProgram Finished. Press any key to exit....");
