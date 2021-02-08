@@ -1,3 +1,4 @@
+![Nuget](https://img.shields.io/nuget/v/Aspose.Finance) ![Nuget](https://img.shields.io/nuget/dt/Aspose.Finance)
 
 # .NET API to Manipulate Finance-related Formats
 
