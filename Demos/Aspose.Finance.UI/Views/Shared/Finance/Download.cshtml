@@ -1,0 +1,46 @@
+﻿@model ViewModel
+
+<div id="DownloadPlaceHolder" class="hidden">
+    <div class="filesuccess">
+        @if (Model.ProductAppName == "cellsWatermark")
+        {
+            <label id="SuccessMessage">@Model.CellsWatermarkSuccessMessage</label>
+        }
+        else
+        {
+            <label id="SuccessMessage">@Model.SuccessMessage</label>
+        }
+        <span class="convertbtn">
+            <a href="#" id="DownloadButton" class="btn btn-success btn-lg">@Model.Resources["DownLoadNow"]&nbsp;<i class="fa fa-download"></i></a>
+        </span>
+        @if (Model.ShowViewerButton)
+        {
+            <div class="clearfix">&nbsp;</div>
+            <span class="viewerbtn">
+                <a href="#" id="ViewerLink" target="_self" class="btn btn-success btn-lg">&nbsp;&nbsp;&nbsp;&nbsp;@Model.ViewerButtonText&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-eye"></i></a>
+            </span>
+        }
+        <div class="clearfix">&nbsp;</div>
+        <div class="col-md-2"></div>
+        <a class="btn btn-link col-md-6" style="text-align: left" target="_self" href="@Model.AppURL" >@Model.CellsAnotherFileText &nbsp;<i class="fa-refresh fa"></i></a>
+        <a id="sendEmailButton" class="btn btn-link col-md-3" style="text-align: left">@Model.Resources["SendToEmail"] &nbsp;<i class="fa-envelope-o fa"></i></a>
+        <div class="col-md-1"></div>
+        <div class="clearfix"></div>
+        <div class="col-md-2"></div>
+        <a class="btn btn-link col-md-6" style="text-align: left" target="_blank" href="https://products.aspose.cloud/finance/family">Cloud API &nbsp;<i class="fa-cloud fa"></i></a>
+        <a class="btn btn-link col-md-3" style="text-align: left" target="_blank" href="https://products.aspose.com/finance/family">On Premise API &nbsp;<i class="fa-file-excel-o fa"></i></a>
+        <div class="col-md-1"></div>
+    </div>
+    <p>@Model.Resources["BookmarkTextDownload"]</p>
+    @* It was decided to remove feedback form
+    <div id="feedback" class="row feedback-form">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 feedback-form">
+            <div>
+                <textarea id="feedbackText" maxlength="1000" placeholder="@Model.Resources["FeedbackPlaceholder"]"></textarea>
+                <div class="small text-left">@Model.Resources["FeedbackMaximumSize"]</div>
+            </div>
+            <a id="sendFeedbackBtn" class="btn btn-success">@Model.Resources["FeedbackSend"]</a>
+        </div>
+    </div>
+    *@
+</div>

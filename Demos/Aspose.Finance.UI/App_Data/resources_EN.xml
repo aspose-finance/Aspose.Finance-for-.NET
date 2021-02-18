@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- =============================================  Other important public SEO resources START  ================================================ -->
+    <res name="AsposeProductFamilyInclude">{0} Product Family Includes</res>
+    <res name="AsposeFinance">Aspose.Finance</res>
+    <res name="AsposeProductFor"></res>
+    <res name="Conversionh4">Conversion</res>
+    <res name="Viewerh4">Viewer</res>
+    <res name="Watermarkh4">Watermark</res>
+    <res name="SearchAPPName">Search</res>
+    <res name="AssemblyAPPName">Assembly</res>
+    <res name="AnnotationAPPName">Annotation</res>
+    <res name="UnlockAPPName">Unlock</res>
+    <res name="ProtectAPPName">Protect</res>
+    <res name="EditorAPPName">Editor</res>
+    <res name="ApplicationTitle">Free File Format Apps</res>
+    <res name="SaveAs">Save as</res>
+    <res name="DownLoadNow">DOWNLOAD NOW</res>
+    <res name="SendToEmail">Send to email</res>
+    <res name="BookmarkTextDownload">
+        Press <strong>Ctrl + D</strong> to store it in your bookmarks in order not to search it again
+    </res>
+    <res name="ShareFacebook">Share on Facebook</res>
+    <res name="ShareTwitter">Share on Twitter</res>
+    <res name="ShareLinkedIn">Share on LinkedIn</res>
+    <res name="SeeOtherApps">See other apps</res>
+    <res name="TryCloudAPI">Try our Cloud API</res>
+    <res name="LeaveFeedback">Leave a feedback</res>
+    <res name="GitHub">See source code</res>
+    <res name="BookmarkApp">Bookmark this app</res>
+    <res name="BookmarkText">
+        Press <strong>Ctrl + D</strong> to add this page to your favorites or <strong>Esc</strong> to cancel the action.
+    </res>
+    <res name="SendDownloadLink">Send the download link to</res>
+    <res name="EmailAddress">email address</res>
+    <res name="EmailTitle">Download File</res>
+    <res name="Cancel">Cancel</res>
+    <res name="Send">Send</res>
+    <res name="FeedbackHeader">Send us your feedback</res>
+    <res name="FeedbackPlaceholder">Write here your opinion, suggestions, etc.</res>
+    <res name="FeedbackMaximumSize">1000 characters maximum</res>
+    <res name="OtherAppsTitle">Work with your documents in other free apps</res>
+    <res name="ConversionFeature3">Conversion Quality</res>
+    <res name="PoweredBy">Powered by</res>
+    <res name="Feature3Description">
+        . All files are processed using Aspose APIs, which are being used by many Fortune 100 companies across 114 countries
+    </res>
+    <res name="FileWrongTypeMessage">You are trying to upload document(s) of unsupported type:</res>
+    <res name="FileSelectMessage">Please select a file to upload</res>
+    <res name="FileAmountMessageLessTen">Please select less than ten files</res>
+    <res name="NoSearchResultsMessage">No search results</res>
+    <res name="WrongRegExpMessage">Wrong regular expression</res>
+    <res name="DropOrUploadFiles">Drop or upload your files</res>
+    <res name="EditorFeature3">Editor Quality</res>
+    <res name="Document">document</res>
+    <res name="ParserFeature3">Parse Quality</res>
+    <res name="Save">Save</res>
+    <res name="MetadataClearButton">Clear All</res>
+    <res name="MetadataFeature3">Metadata Quality</res>
+    <res name="ViewerFeature3">Viewer Quality</res>
+    <res name="WatermarkFeature3">Watermark Quality</res>
+    <res name="MergerFeature3">Merge Quality</res>
+    <res name="MergerFileAmountMessage">Please select between two and ten files</res>
+    <res name="SearchFeature3">Search Quality</res>
+    <res name="SearchQueryErrorMessage">Search query can&apos;t be empty</res>
+    <res name="FileAmountMessageOne">Please select only one file</res>
+    <res name="AssemblyFeature3">Assemble Quality</res>
+    <res name="AnnotationFeature3">Annotation Quality</res>
+    <res name="UnlockPasswordPlaceholder">Type Password</res>
+    <res name="UnlockFeature3">Unlock Quality</res>
+    <res name="PasswordPlaceholderErrorMessage">Password input can&apos;t be empty</res>
+    <res name="ProtectFeature3">Protection Quality</res>
+  <res name="FeedbackSuccess">Your feedback is sent successfully</res>
+  <res name="FeedbackLengthError">Feedback text message should be less than 1000 symbols</res>
+  <res name="ValidateEmailMessage">Please Enter Valid Email ID</res>
+
+  <res name="financePageMainTitle">Online Xbrl/iXbrl Apps</res>
+  <res name="financePageSubHeading">Convert your Xbrl/iXbrl online from anywhere</res>
+
+  <res name="financeDocument">Xbrl/iXbrl</res>
+  <res name="financeFileSelectMessage">Please select an XBRL/iXbrl spreadsheet to upload</res>
+  <res name="financeFileAmountMessageLessTen">Please select less than ten Xbrl/iXbrl files</res>
+  <res name="financeNoSearchResultsMessage">No search results</res>
+  <res name="financeWrongRegExpMessage">Wrong regular expression</res>
+  <res name="financeDropOrUploadFiles">Drop or upload your Xbrl/iXbrl files</res>
+  <res name="financeFileWrongTypeMessage">You are trying to upload XBRL/iXbrl of unsupported type:</res>
+  <res name="financeFileWrongTypeMessage2">Please, use our full version of {0} for uploading this type of XBRL/iXbrl file(s): </res>
+
+  <res name="financeOtherAppsTitle">Work with your XBRL/iXbrl in other free apps</res>
+  
+  <res name="financeAPIResponseTime">API response timeout</res>
+  <res name="financeNoImagesFoundMessage">No images found</res>
+  <res name="financeReplacementExtension2">Target</res>
+  
+    <!-- =============================================  Other important public SEO resources END  =================================================== -->
+
+    <!-- ============================================ finance APPS ============================================ -->
+    <res name="financeConversionFeature1">Fast and Easy Conversion</res>
+    <res name="financeConversionFeature1Description">Upload your XBRL/iXbrl, choose the save format type and click on “Convert” button. You will get the download link as soon as the file is converted</res>
+    <res name="financeConversionFeature2">Convert from Anywhere</res>
+    <res name="financeConversionFeature2Description">It works from all platforms including Windows, Mac, Android and iOS. All files are processed on our servers. No plugin or software installation required for you</res>
+    <res name="financeConversionFeature3">Conversion Quality</res>
+    <res name="financeConversionButton">CONVERT</res>
+    <res name="financeConversionAnotherFile">Convert other files</res>
+    <res name="financeConversionSuccessMessage">Your files have been processed successfully</res>
+    <res name="financeConversionSentEmailSuccessMessage">Your file(s) has been converted successfully, please check your email to download converted file(s)</res>
+    <res name="financeConversionViewer">VIEW RESULTS</res>
+    <res name="financeConversionAction">Convert</res>
+
+    
+    <res name="financeConversionPageTitle">Convert {0} Online - Free Online XBRL/iXbrl Converter</res>
+    <res name="financeConversionMetaDescription">Free online {0} converter. Convert XBRL/iXbrl files to XBRL,iXbrl,Xlsx and more.</res>
+    <res name="financeConversionTitle">Free online {0} converter</res>
+    <res name="financeConversionTitleSub">Convert XBRL/iXbrl to XBRL,iXbrl,Xlsx.</res>
+    <res name="financeConversionPageTitle2">Convert {0} to {1} Online - Free Online {0} to {1} Converter</res>
+    <res name="financeConversionMetaDescription2">Free online {0} to {1} converter. Convert XBRL/iXbrl files to XBRL,iXbrl,Xlsx and more.</res>
+    <res name="financeConversionTitle2">Free online {0} to {1} converter</res>
+    <res name="financeConversionTitleSub2">Convert {0} to {1} online from any device, with a modern browser like Chrome, Opera and Firefox.</res>
+    
+    <res name="financeConversionDesc">Convert your Xbrl/iXbrl to Xbrl,iXbrl,Excel and other formats from any OS and browser</res>
+    
+    <res name="financeConversionLiFeatureTryOtherConverters">Supported Documents: {0}</res>
+    <res name="financeConversionLiFeature1">Quick way to convert multiple Xbrl/iXbrl  files</res>
+    <res name="financeConversionLiFeature2">Easily save document as xbrl, iXbrl or xlsx</res>
+    <res name="financeConversionLiFeature3">Upload maximum 10 files and convert them simultaneously</res>
+    
+    <res name="financeConversionValidationExpression">.xml|.html|.xhtml|.xbrl|.ixbrl|.xsd</res>
+    
+    <res name="financeConversionOtherFeaturesTitle">Other Supported Conversions</res>
+    <res name="financeConversionOtherFeaturesTitleSub">You can also convert {0} into many other file formats. Please see the complete list below.</res>
+    <res name="financeValidFileExtensions">Xbrl or iXbrl</res>
+    <res name="financeValidationExpression">.xml|.html|.xhtml|.xbrl|.ixbrl|.xsd</res>
+    
+    <!-- Conversion App - How To-->
+    <res name="financeHowtoConvertFeature1">Click inside the file drop area to upload one {0} file or drag &amp; drop one {1} file.</res>
+    <res name="financeHowtoConvertFeature2">Your {0} file will be uploaded and will be converted to {1} format.</res>
+    <res name="financeHowtoConvertFeature3">Download link of {0} file will be available instantly after conversion.</res>
+    <res name="financeHowtoConvertFeature4">You can also send a link to the {0} file to your email address.</res>
+    <res name="financeHowtoConvertFeature5">Note that file will be deleted from our servers after 24 hours and download links will stop working after this time period.</res>
+    <res name="financeHowtoConversionTitle">How to convert {0} files using {1}</res>
+    <res name="financeHowtoNameConversionFeature1">Upload files</res>
+    <res name="financeHowtoImageUrlConversionFeature1">https://products.aspose.app/img/{0}/HowToExample/Step1.png</res>
+    <res name="financeHowtoConversionFeature1">Click inside the file drop area to upload {0} files or drag &amp; drop {0} files.</res>
+    <res name="financeHowtoNameConversionFeature2">Note</res>
+    <res name="financeHowtoImageUrlConversionFeature2">https://products.aspose.app/img/{0}/HowToExample/Step2.png</res>
+    <res name="financeHowtoConversionFeature2">You can upload maximum 10 files for the operation.</res>
+    <res name="financeHowtoNameConversionFeature3">Our {0} converter engine</res>
+    <res name="financeHowtoImageUrlConversionFeature3">https://products.aspose.app/img/{0}/HowToExample/Step3.png</res>
+    <res name="financeHowtoConversionFeature3">Your {0} files will be uploaded and will be converted to {1} format.</res>
+    <res name="financeHowtoNameConversionFeature4">Get the conversion result</res>
+    <res name="financeHowtoImageUrlConversionFeature4">https://products.aspose.app/img/{0}/HowToExample/Step4.png</res>
+    <res name="financeHowtoConversionFeature4">Download link of {1} files will be available instantly after conversion.</res>
+    <res name="financeHowtoNameConversionFeature5">Get results from anywhere</res>
+    <res name="financeHowtoImageUrlConversionFeature5">https://products.aspose.app/img/{0}/HowToExample/Step5.png</res>
+    <res name="financeHowtoConversionFeature5">You can also send a link to the {0} file to your email address.</res>
+    <res name="financeHowtoNameConversionFeature6">Note</res>
+    <res name="financeHowtoImageUrlConversionFeature6">https://products.aspose.app/img/{0}/HowToExample/Step6.png</res>
+    <res name="financeHowtoConversionFeature6">Note that file will be deleted from our servers after 24 hours and download links will stop working after this time period.</res>
+    
+  <!-- Conversion FAQ - canonical page-->
+  <res name="financeFAQQuestionConversionFeature1">❓ How can I convert {0} file?</res>
+  <res name="financeFAQAnswerConversionFeature1">First, you need to add a file for conversion: drag &amp; drop your {0} file or click inside the white area for choose a file. Then click the "Convert" button. When {0} conversion is completed, you can download your result file.</res>
+  <res name="financeFAQQuestionConversionFeature2">⏱️ How long does it take to convert {0}?</res>
+  <res name="financeFAQAnswerConversionFeature2">This converter works fast. You can convert {0} file in a few seconds.</res>
+  <res name="financeFAQQuestionConversionFeature3">🛡️ Is it safe to convert {0} using free Aspose converter?</res>
+  <res name="financeFAQAnswerConversionFeature3">Of course! The download link of result files will be available instantly after conversion. We delete uploaded files after 24 hours and the download links will stop working after this time period. No one has access to your files. File conversion is absolutely safe.</res>
+  <res name="financeFAQQuestionConversionFeature4">💻 Can I convert {0} on Linux, Mac OS or Android?</res>
+  <res name="financeFAQAnswerConversionFeature4">Yes, you can use free Aspose converter on any operating system that has a web browser. Our {0} converter works online and does not require any software installation.</res>
+
+  <!-- Conversion FAQ - extension page-->
+  <res name="financeFAQQuestionConversionFeature21">❓ How convert {0} to {1}?</res>
+  <res name="financeFAQAnswerConversionFeature21">First, you need to add a file for conversion: drag &amp; drop your {0} file or click inside the white area for choose a file. Then click the "Convert" button. When {0} to {1} conversion is completed, you can download your {1} file.</res>
+  <res name="financeFAQQuestionConversionFeature22">⏱️ How long does {0} to {1} conversion work?</res>
+  <res name="financeFAQAnswerConversionFeature22">This converter works fast. You can change {0} to {1} in a few seconds.</res>
+  <res name="financeFAQQuestionConversionFeature23">🛡️ Is it safe to use the free {0} to {1} conversion service?</res>
+  <res name="financeFAQAnswerConversionFeature23">Of course! The download link of {1} files will be available instantly after conversion. We delete uploaded files after 24 hours and the download links will stop working after this time period. No one has access to your files. File conversion (including {0} to {1}) is absolutely safe.</res>
+  <res name="financeFAQQuestionConversionFeature24">💻 Can I convert {0} to {1} on Linux, Mac OS or Android?</res>
+  <res name="financeFAQAnswerConversionFeature24">Our {0} to {1} converter works online and does not require any software installation.</res>
+  <res name="financeFAQQuestionConversionFeature25">🌐 What browser should I use to convert {0} to {1}?</res>
+  <res name="financeFAQAnswerConversionFeature25">You can use any modern browser to convert {0} to {1}, for example, Google Chrome, Firefox, Opera, Safari.</res>
+
+    
+    <res name="financeConversionSaveAsOptions">XBRL,IXBRL,XLSX</res>
+      
+    <res name="financeSaveAsLiFeatureExt">Save to desired format: {0}</res>
+
+    <!-- Overview -->
+  <res name="financeConversionRawHtmlOverview">Aspose &lt;strong&gt;{0} converter&lt;/strong&gt; is a free app to convert {0} format, also you can save the result to Xbrl, iXbrl and XLSX. Convert {0} online from Mac OS, Linux, Android, iOs, and anywhere. &lt;/p&gt; &lt;p style="font-size: 20px; margin-bottom: 10px !important"&gt; If you want to convert programmatically please check &lt;a target="_blank" href="https://docs.aspose.com/finance/net/"&gt;&lt;strong&gt;Aspose.Finance documentation&lt;/strong&gt;&lt;/a&gt;.</res>
+
+ </resources>
