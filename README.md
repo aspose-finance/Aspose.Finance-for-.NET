@@ -54,4 +54,4 @@ if (roleType != null)
 document.Save(XbrlFilePath + "output.xbrl");
 ```
 
-[Home](https://www.aspose.com/) | [Product Page](https://products.aspose.com/finance/net) | [Docs](https://docs.aspose.com/finance/net/) | [API Reference](https://apireference.aspose.com/finance/net) | [Examples](https://github.com/aspose-finance/Aspose.finance-for-.NET) | [Blog](https://blog.aspose.com/category/finance/) | [Free Support](https://forum.aspose.com/c/finance) | [Temporary License](https://purchase.aspose.com/temporary-license)
+[Home](https://www.aspose.com/) | [Product Page](https://products.aspose.com/finance/net) | [Docs](https://docs.aspose.com/finance/net/) | [API Reference](https://apireference.aspose.com/finance/net) | [Examples](https://github.com/aspose-finance/Aspose.finance-for-.NET) | [Blog](https://blog.aspose.com/category/finance/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/finance) | [Temporary License](https://purchase.aspose.com/temporary-license)
